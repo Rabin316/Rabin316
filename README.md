@@ -1,5 +1,19 @@
 # 💫 About Me:
-👋 Hello, I'm Rabin Dangol!<br><br>🎓 Studying BCA (Bachelor of Computer Applications) 🖥️<br>🌱 Tech Enthusiast | Aspiring Software Developer 💻<br>🔍 Exploring the World of Coding and Open Source 🌐<br><br>📚 Currently Learning: Java, JavaScript, Data Structures, and Algorithms 📝<br>🚀 On a mission to sharpen my programming skills and build exciting projects 🚀<br><br>🎲 Random Fun Fact: I love generating and exploring random numbers! 1️⃣0️⃣0️⃣1️⃣0️⃣1️⃣0️⃣0️⃣1️⃣ 😉<br><br>📧 Let's connect: rabindangol12345@gmail.com<br>
+Hello, I'm Rabin Dangol!
+
+🎓 **Studying BCA (Bachelor of Computer Applications)** 🖥️  
+🌱 **Tech Enthusiast | Aspiring Software Developer** 💻  
+🔍 **Exploring the World of Coding and Open Source** 🌐
+
+📚 **Currently Learning**: Java, JavaScript, Data Structures, Algorithms, and Database Administration (DBA) 📝  
+🚀 **On a mission to sharpen my programming skills and build exciting projects** 🚀
+
+💾 **Passionate about**: Database management, SQL optimization, and data analytics.
+
+🎲 **Random Fun Fact**: I love generating and exploring random numbers! 1️⃣0️⃣0️⃣1️⃣0️⃣1️⃣0️⃣0️⃣1️⃣ 😉
+
+📧 **Let's connect**: rabindangol12345@gmail.com
+
 
 
 ## 🌐 Socials:
